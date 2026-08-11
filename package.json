@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "expo-image-picker": "~17.0.11",
+    "@expo/vector-icons": "^15.0.3",
+    "react-native-paper": "4.9.2",
+    "expo-linear-gradient": "~15.0.8"
+  }
+}
